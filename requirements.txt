@@ -1,0 +1,6 @@
+streamlit==1.27.0
+pickleshare==0.7.5
+numpy==1.21.5
+cloudpickle==2.0.0
+scikit_learn
+
