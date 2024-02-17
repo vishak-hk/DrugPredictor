@@ -3,4 +3,4 @@ pickleshare==0.7.5
 numpy==1.21.5
 cloudpickle==2.0.0
 scikit_learn==0.24.2
-matplotlib==3.4.3
+matplotlib
