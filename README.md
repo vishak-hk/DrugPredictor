@@ -40,7 +40,7 @@ DrugPredictor is a data-driven healthcare solution designed to assist users in m
 
 Explore the possibilities of informed healthcare decision-making. Try DrugPredictor to receive practical suggestions based on your health data.
 
-[Sign Up Now](#) | [Learn More](#)
+- **Application Link:** [DrugPredictor App](https://drugpredictor-vishakhk.streamlit.app/)
 
 ---
 
